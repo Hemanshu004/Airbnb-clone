@@ -6,7 +6,7 @@ import './index.css';
 export default function App() {
   const [isPhotoTourOpen, setIsPhotoTourOpen] = useState(false);
 
-  const [toastMessage, setToastMessage] = useState('');
+  const [, setToastMessage] = useState('');
   const [isDescExpanded, setIsDescExpanded] = useState(false);
 
   const [isSaved, setIsSaved] = useState(false);

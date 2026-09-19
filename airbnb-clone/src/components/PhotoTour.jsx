@@ -1,5 +1,5 @@
 import React from 'react';
-import { tourCategories, allPhotos } from '../data/photos';
+import { tourCategories } from '../data/photos';
 
 export default function PhotoTour({ isOpen, onClose, onPhotoClick }) {
   if (!isOpen) return null;
@@ -37,10 +37,10 @@ export default function PhotoTour({ isOpen, onClose, onPhotoClick }) {
               </svg>
             </span>
           </button>
-          <button className="_EmrQRK _nfavct" type="button">
+          <button className="_EmrQRK" type="button">
             <span className="_oQmVpq">
-              <svg viewBox="0 0 32 32" aria-hidden="true" role="presentation" focusable="false" style={{display: 'block', height: '100%', width: '100%', fill: 'currentColor'}}>
-                <path d="M16 28C7 22 3 16 3 10.5A6.5 6.5 0 0 1 16 8a6.5 6.5 0 0 1 13 2.5C29 16 25 22 16 28z"></path>
+              <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="presentation" focusable="false" style={{display: 'block', height: '100%', width: '100%', fill: 'none', stroke: 'currentColor', strokeWidth: 2, overflow: 'visible'}}>
+                <path d="m16 28c7-4.733 14-10 14-17 0-1.792-.683-3.583-2.05-4.95-1.367-1.366-3.158-2.05-4.95-2.05-1.791 0-3.583.684-4.949 2.05l-2.051 2.051-2.05-2.051c-1.367-1.366-3.158-2.05-4.95-2.05-1.791 0-3.583.684-4.949 2.05-1.367 1.367-2.051 3.158-2.051 4.95 0 7 7 12.267 14 17z"></path>
               </svg>
             </span>
           </button>
