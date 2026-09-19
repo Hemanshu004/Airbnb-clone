@@ -50,7 +50,7 @@ export default function PhotoTour({ isOpen, onClose, onPhotoClick }) {
       <div className="_EpiBQR">
         <div className="_hKlfpJ">
           {/* Thumbnails Navigation */}
-          <div className="_tHVclZ" style={{ marginTop: '24px' }}>
+          <div className="_tHVclZ" id="tourNav" aria-label="Photo categories">
             {tourCategories.map(cat => (
               <button 
                 key={cat.id} 
@@ -68,7 +68,7 @@ export default function PhotoTour({ isOpen, onClose, onPhotoClick }) {
           {/* Sections */}
           <div className="_MbzoEk">
             {categoriesWithOffsets.map(cat => (
-              <div key={cat.id} id={cat.id} className="_AWcqip" style={{ marginTop: '24px', paddingTop: '32px' }}>
+              <div key={cat.id} id={cat.id} className="_AWcqip">
                 <div className="_yZYwUW">
                   <h2 className="_AnkvRF">{cat.title}</h2>
                   {cat.subtitle && <div className="_hvJgUS">{cat.subtitle}</div>}
