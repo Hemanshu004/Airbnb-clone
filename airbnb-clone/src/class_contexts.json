@@ -1,0 +1,1175 @@
+{
+  "_AWcqip": [
+    "[App.backup] <section className=\"_AWcqip\" id=\"tour-room-1\">",
+    "[App.backup] <section className=\"_AWcqip\" id=\"tour-room-8\">",
+    "[App.backup] <section className=\"_AWcqip\" id=\"tour-room-4\">",
+    "[App.backup] <section className=\"_AWcqip\" id=\"tour-room-0\">",
+    "[App.backup] <section className=\"_AWcqip\" id=\"tour-room-7\">",
+    "[App.backup] <section className=\"_AWcqip\" id=\"tour-room-5\">",
+    "[App.backup] <section className=\"_AWcqip\" id=\"tour-room-3\">",
+    "[App.backup] <section className=\"_AWcqip\" id=\"tour-room-6\">",
+    "[PhotoTour] <div key={cat.id} id={cat.id} className=\"_AWcqip\">",
+    "[App.backup] <section className=\"_AWcqip\" id=\"tour-room-2\">"
+  ],
+  "_AiEzWi": [
+    "[ReviewsSection] <div className=\"_AiEzWi\">",
+    "[App.backup] <div className=\"_AiEzWi\">"
+  ],
+  "_AjpxES": [
+    "[BookingCard] <span className=\"_AjpxES\">\u20b928,499</span>",
+    "[App.backup] <span className=\"_AjpxES\">\u20b928,499</span>"
+  ],
+  "_AmWJrl": [
+    "[App.backup] <div className=\"_AmWJrl\">",
+    "[ListingInfo] <div className=\"_AmWJrl\">"
+  ],
+  "_AnkvRF": [
+    "[PhotoTour] <h2 className=\"_AnkvRF\">{cat.title}</h2>",
+    "[App.backup] <div className=\"_AnkvRF\">Living room 1</div>",
+    "[App.backup] <div className=\"_AnkvRF\">Pool</div>",
+    "[App.backup] <div className=\"_AnkvRF\">Bedroom</div>",
+    "[App.backup] <div className=\"_AnkvRF\">Exterior</div>",
+    "[App.backup] <div className=\"_AnkvRF\">Full bathroom</div>",
+    "[App.backup] <div className=\"_AnkvRF\">Gym</div>",
+    "[App.backup] <div className=\"_AnkvRF\">Living room 2</div>",
+    "[App.backup] <div className=\"_AnkvRF\">Additional photos</div>",
+    "[App.backup] <div className=\"_AnkvRF\">Full kitchen</div>"
+  ],
+  "_BTCYex": [
+    "[App.backup] <div className=\"_BTCYex\">",
+    "[App] <div className=\"_BTCYex\">"
+  ],
+  "_CBhLfH": [
+    "[SecondaryNav] <div className=\"_CBhLfH\">",
+    "[App.backup] <div className=\"_CBhLfH\">"
+  ],
+  "_CDwKNg": [
+    "[Header] className=\"_CWDueY _CDwKNg\"",
+    "[App.backup] className=\"_CWDueY _CDwKNg\""
+  ],
+  "_CTUlZl": [
+    "[App.backup] <div className=\"_CTUlZl\">",
+    "[HostSection] <div className=\"_CTUlZl\">"
+  ],
+  "_CWDueY": [
+    "[Header] className=\"_CWDueY _CDwKNg\"",
+    "[Header] className=\"_CWDueY\"",
+    "[App.backup] className=\"_CWDueY\"",
+    "[App.backup] className=\"_CWDueY _CDwKNg\""
+  ],
+  "_CfRTjD": [
+    "[ReviewsSection] className=\"_CfRTjD\"",
+    "[App.backup] className=\"_CfRTjD _kfKUOt\"",
+    "[App.backup] className=\"_CfRTjD\"",
+    "[ReviewsSection] className=\"_CfRTjD _kfKUOt\""
+  ],
+  "_CscuGL": [
+    "[App.backup] className=\"_CscuGL _bNHEUf\""
+  ],
+  "_DLLasj": [
+    "[App.backup] className=\"_DLLasj\""
+  ],
+  "_DLVRjk": [
+    "[PhotoTour] <div className={`_wdcjGJ ${cat.photos.length > 1 ? '_DLVRjk' : '_vmCONz'}`}>",
+    "[App.backup] <div className=\"_wdcjGJ _DLVRjk\">"
+  ],
+  "_DPzomV": [
+    "[App.backup] <div className=\"_DPzomV\" id=\"heroGrid\">",
+    "[App] <div className=\"_DPzomV\" id=\"heroGrid\">"
+  ],
+  "_DSpFpO": [
+    "[App] <div className=\"_DSpFpO\">",
+    "[App.backup] <div className=\"_DSpFpO\">"
+  ],
+  "_DbxOEt": [
+    "[HeroGallery] <section className=\"_DbxOEt\" id=\"photos\">",
+    "[App.backup] <section className=\"_DbxOEt\" id=\"photos\">"
+  ],
+  "_DhBoQs": [
+    "[LocationSection] <div className=\"_DhBoQs\">",
+    "[App.backup] <div className=\"_DhBoQs\">"
+  ],
+  "_EmrQRK": [
+    "[PhotoTour] <button className=\"_EmrQRK\" type=\"button\" aria-label=\"Share\">",
+    "[HeroGallery] className={`_EmrQRK ${isSaved ? \"_nfavct\" : \"\"}`}",
+    "[HeroGallery] className=\"_EmrQRK\"",
+    "[PhotoTour] <button className=\"_EmrQRK\" type=\"button\" aria-label=\"Save\">",
+    "[App.backup] className=\"_EmrQRK\"",
+    "[App.backup] className={`_EmrQRK ${isSaved ? \"_nfavct\" : \"\"}`}"
+  ],
+  "_EnWgNg": [
+    "[App.backup] <div className=\"_EnWgNg\" role=\"search\">",
+    "[Header] <div className=\"_EnWgNg\" role=\"search\">"
+  ],
+  "_EpiBQR": [
+    "[PhotoTour] <div className=\"_EpiBQR\">",
+    "[App.backup] <div className=\"_EpiBQR\" id=\"tourScroll\">"
+  ],
+  "_FFRFIT": [
+    "[App.backup] <div className=\"_FFRFIT\">",
+    "[NearbyStays] <div className=\"_FFRFIT\">"
+  ],
+  "_FVmwas": [
+    "[App.backup] <span className=\"_FVmwas\">for 5 nights</span>",
+    "[SecondaryNav] <span className=\"_FVmwas\">for 5 nights</span>"
+  ],
+  "_FXEbnd": [
+    "[App] <div className=\"_UHweot _FXEbnd\">20</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">18</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">30</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">22</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">22</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">30</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">23</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">29</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">29</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">23</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">21</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">24</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">24</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">20</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">18</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">21</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">19</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">19</div>"
+  ],
+  "_FiFzqL": [
+    "[BookingCard] <div className=\"_FiFzqL\">",
+    "[App.backup] <div className=\"_FiFzqL\">"
+  ],
+  "_FnrmaC": [
+    "[App] <div className=\"_FnrmaC\">",
+    "[App.backup] <div className=\"_FnrmaC\">"
+  ],
+  "_FtSmek": [
+    "[HostSection] <div className=\"_FtSmek\">",
+    "[App.backup] <div className=\"_FtSmek\">"
+  ],
+  "_GLDaPq": [
+    "[App.backup] <div className=\"_GLDaPq\">",
+    "[BookingCard] <div className=\"_GLDaPq\">"
+  ],
+  "_GXrMIo": [
+    "[App.backup] className=\"_GXrMIo\"",
+    "[PhotoTour] className=\"_GXrMIo\""
+  ],
+  "_GpOufr": [
+    "[ReviewsSection] <div className=\"_GpOufr\">Check-in</div>",
+    "[App.backup] <div className=\"_GpOufr\">Cleanliness</div>",
+    "[App.backup] <div className=\"_GpOufr\">Overall rating</div>",
+    "[ReviewsSection] <div className=\"_GpOufr\">Cleanliness</div>",
+    "[App.backup] <div className=\"_GpOufr\">Check-in</div>",
+    "[App.backup] <div className=\"_GpOufr\">Location</div>",
+    "[ReviewsSection] <div className=\"_GpOufr\">Accuracy</div>",
+    "[ReviewsSection] <div className=\"_GpOufr\">Value</div>",
+    "[App.backup] <div className=\"_GpOufr\">Communication</div>",
+    "[ReviewsSection] <div className=\"_GpOufr\">Overall rating</div>",
+    "[ReviewsSection] <div className=\"_GpOufr\">Location</div>",
+    "[App.backup] <div className=\"_GpOufr\">Value</div>",
+    "[ReviewsSection] <div className=\"_GpOufr\">Communication</div>",
+    "[App.backup] <div className=\"_GpOufr\">Accuracy</div>"
+  ],
+  "_HALoyX": [
+    "[App.backup] <div className=\"_HALoyX\" id=\"_HALoyX\" role=\"status\" aria-live=\"polite\">"
+  ],
+  "_HEUMtF": [
+    "[Header] className=\"_HEUMtF\"",
+    "[App.backup] className=\"_HEUMtF\""
+  ],
+  "_HEyPzI": [
+    "[BookingCard] <div className=\"_HEyPzI\">",
+    "[App.backup] <div className=\"_HEyPzI\">"
+  ],
+  "_HaGluF": [
+    "[App.backup] <div className=\"_HaGluF\">",
+    "[Header] <div className=\"_HaGluF\">"
+  ],
+  "_HxhaNo": [
+    "[App.backup] <div className=\"_HxhaNo\">",
+    "[ListingInfo] <div className=\"_HxhaNo\">"
+  ],
+  "_IJyfOk": [
+    "[App.backup] <div className=\"_IJyfOk\">",
+    "[BookingCard] <div className=\"_IJyfOk\">"
+  ],
+  "_IPHKNm": [
+    "[App.backup] <div className=\"_IPHKNm\">",
+    "[ReviewsSection] <div className=\"_IPHKNm\">"
+  ],
+  "_IPinhY": [
+    "[HostSection] <div className=\"_IPinhY\">Mirashya Homes</div>",
+    "[App.backup] <div className=\"_IPinhY\">Mirashya Homes</div>"
+  ],
+  "_JXzroy": [
+    "[SecondaryNav] className={`_JXzroy ${isSecondaryNavVisible ? \"_fTQmRt\" : \"\"}`}",
+    "[App.backup] className={`_JXzroy ${isSecondaryNavVisible ? \"_fTQmRt\" : \"\"}`}",
+    "[SecondaryNav] id=\"_JXzroy\"",
+    "[App.backup] id=\"_JXzroy\""
+  ],
+  "_JwWFHq": [
+    "[ListingInfo] <div className=\"_JwWFHq\">Living room</div>",
+    "[App.backup] <div className=\"_JwWFHq\">Cancellation policy</div>",
+    "[App.backup] <div className=\"_JwWFHq\">Safety &amp; property</div>",
+    "[ListingInfo] <div className=\"_JwWFHq\">Designed for staying cool</div>",
+    "[App.backup] <div className=\"_JwWFHq\">Living room</div>",
+    "[App.backup] <div className=\"_JwWFHq\">Self check-in</div>",
+    "[App.backup] <div className=\"_JwWFHq\">Bedroom</div>",
+    "[App.backup] <div className=\"_JwWFHq\">",
+    "[ListingInfo] <div className=\"_JwWFHq\">Outdoor entertainment</div>",
+    "[ListingInfo] <div className=\"_JwWFHq\">Bedroom</div>",
+    "[App.backup] <div className=\"_JwWFHq\">Outdoor entertainment</div>",
+    "[App.backup] <div className=\"_JwWFHq\">5 nights in Candolim</div>",
+    "[App] <div className=\"_JwWFHq\">House rules</div>",
+    "[NearbyStays] <div className=\"_JwWFHq\">",
+    "[App] <div className=\"_JwWFHq\">Safety &amp; property</div>",
+    "[ListingInfo] <div className=\"_JwWFHq\">Self check-in</div>",
+    "[App.backup] <div className=\"_JwWFHq\">House rules</div>",
+    "[App] <div className=\"_JwWFHq\">Cancellation policy</div>",
+    "[App] <div className=\"_JwWFHq\">5 nights in Candolim</div>",
+    "[App.backup] <div className=\"_JwWFHq\">Designed for staying cool</div>"
+  ],
+  "_JyICyg": [
+    "[App] <div className=\"_JyICyg\">November 2026</div>",
+    "[App] <div className=\"_JyICyg\">October 2026</div>",
+    "[App.backup] <div className=\"_JyICyg\">November 2026</div>",
+    "[App.backup] <div className=\"_JyICyg\">October 2026</div>"
+  ],
+  "_KNOVTi": [
+    "[App.backup] className=\"_KNOVTi _VkQoEV _bNHEUf\"",
+    "[App.backup] className=\"_KNOVTi _VTIXSd _bNHEUf\""
+  ],
+  "_KOWlKT": [
+    "[SecondaryNav] className=\"_KOWlKT\"",
+    "[App.backup] className=\"_KOWlKT\""
+  ],
+  "_KQgxsf": [
+    "[App.backup] <div className=\"_KQgxsf\">",
+    "[SecondaryNav] <div className=\"_KQgxsf\">"
+  ],
+  "_KehdAH": [
+    "[ReviewsSection] <div className=\"_KehdAH\">",
+    "[App.backup] <div className=\"_KehdAH\">"
+  ],
+  "_KpcKWX": [
+    "[App.backup] id=\"_KpcKWX\"",
+    "[App.backup] className=\"_KpcKWX\"",
+    "[PhotoTour] <div ref={modalRef} role=\"dialog\" aria-modal=\"true\" className={`_KpcKWX ${isOpen"
+  ],
+  "_LJqhqA": [
+    "[App.backup] <div className=\"_XByKcL _LJqhqA\">",
+    "[AmenitiesSection] <div className=\"_XByKcL _LJqhqA\">",
+    "[App.backup] <div className=\"_gmngIQ _LJqhqA\">"
+  ],
+  "_LRcFYN": [
+    "[HostSection] <span className=\"_LRcFYN\">",
+    "[App.backup] <span className=\"_LRcFYN\">"
+  ],
+  "_LWXeEY": [
+    "[App.backup] <header className=\"_LWXeEY\">"
+  ],
+  "_Ljuvbv": [
+    "[App] <span className=\"_Ljuvbv\">",
+    "[App.backup] <span className=\"_Ljuvbv\">"
+  ],
+  "_LkdOyD": [
+    "[Header] <button className=\"_LkdOyD\" type=\"button\">",
+    "[App.backup] <button className=\"_LkdOyD\" type=\"button\">",
+    "[Header] <button className=\"_LkdOyD _finVTK\" type=\"button\">",
+    "[App.backup] <button className=\"_LkdOyD _finVTK\" type=\"button\">"
+  ],
+  "_LsDhqL": [
+    "[App.backup] <div className=\"_LsDhqL\" id=\"amenBody\">"
+  ],
+  "_MJJFdY": [
+    "[App.backup] <div className=\"_MJJFdY\">Guest favourite</div>",
+    "[ReviewsSection] <div className=\"_MJJFdY\">Guest favourite</div>"
+  ],
+  "_MMdioP": [
+    "[BookingCard] <div className=\"_MMdioP\">",
+    "[App.backup] <div className=\"_MMdioP\">"
+  ],
+  "_MbzoEk": [
+    "[App.backup] <div className=\"_MbzoEk\">",
+    "[PhotoTour] <div className=\"_MbzoEk\">"
+  ],
+  "_McRwJR": [
+    "[App.backup] <div className=\"_McRwJR\">",
+    "[ListingInfo] <div className=\"_McRwJR\">"
+  ],
+  "_MgwXXd": [
+    "[App.backup] <div className=\"_MgwXXd\">",
+    "[HostSection] <div className=\"_MgwXXd\">"
+  ],
+  "_MiwVlJ": [
+    "[ListingInfo] <span className=\"_MiwVlJ\">",
+    "[App.backup] <span className=\"_MiwVlJ\">"
+  ],
+  "_NIsTQW": [
+    "[App.backup] <div className=\"_NIsTQW\">",
+    "[ListingInfo] <div className=\"_NIsTQW\">"
+  ],
+  "_NQUHke": [
+    "[HostSection] <div className=\"_NQUHke\">2</div>",
+    "[ListingInfo] <div className=\"_NQUHke\">19</div>",
+    "[App.backup] <div className=\"_NQUHke\">2</div>",
+    "[HostSection] <div className=\"_NQUHke\">4.68\u2605</div>",
+    "[ListingInfo] <div className=\"_NQUHke\">4.95</div>",
+    "[HostSection] <div className=\"_NQUHke\">1,463</div>",
+    "[App.backup] <div className=\"_NQUHke\">19</div>",
+    "[App.backup] <div className=\"_NQUHke\">1,463</div>",
+    "[App.backup] <div className=\"_NQUHke\">4.95</div>",
+    "[App.backup] <div className=\"_NQUHke\">4.68\u2605</div>"
+  ],
+  "_NdLgZo": [
+    "[BookingCard] <div className=\"_NdLgZo\">",
+    "[App.backup] <div className=\"_NdLgZo\">"
+  ],
+  "_NhmiWB": [
+    "[BookingCard] className=\"_NhmiWB _YkNyTO\"",
+    "[App.backup] className=\"_NhmiWB _YkNyTO\"",
+    "[App.backup] <button className=\"_NhmiWB _jCniyC\" type=\"button\">",
+    "[SecondaryNav] <button className=\"_NhmiWB _jCniyC\" type=\"button\">"
+  ],
+  "_OaaNpZ": [
+    "[ListingInfo] <div className=\"_OaaNpZ\">",
+    "[App.backup] <div className=\"_OaaNpZ\">"
+  ],
+  "_OubFgU": [
+    "[App.backup] className=\"_OubFgU\"",
+    "[Header] className=\"_OubFgU\""
+  ],
+  "_OxFhJw": [
+    "[App.backup] <div className=\"_OxFhJw\">",
+    "[ReviewsSection] <div className=\"_OxFhJw\">"
+  ],
+  "_PTMeKT": [
+    "[Header] <nav className=\"_PTMeKT\">",
+    "[App.backup] <nav className=\"_PTMeKT\">"
+  ],
+  "_PjSQBI": [
+    "[App.backup] <div className=\"_PjSQBI\">2 months on Airbnb</div>",
+    "[App.backup] <div className=\"_PjSQBI\">5 years on Airbnb</div>",
+    "[App.backup] <div className=\"_PjSQBI\">4 years on Airbnb</div>",
+    "[App.backup] <div className=\"_PjSQBI\">8 months on Airbnb</div>",
+    "[ReviewsSection] <div className=\"_PjSQBI\">4 years on Airbnb</div>",
+    "[ReviewsSection] <div className=\"_PjSQBI\">3 years on Airbnb</div>",
+    "[App.backup] <div className=\"_PjSQBI\">3 years on Airbnb</div>",
+    "[ReviewsSection] <div className=\"_PjSQBI\">5 years on Airbnb</div>",
+    "[ReviewsSection] <div className=\"_PjSQBI\">2 months on Airbnb</div>",
+    "[ReviewsSection] <div className=\"_PjSQBI\">8 months on Airbnb</div>"
+  ],
+  "_PjnNJs": [
+    "[PhotoTour] <div ref={modalRef} role=\"dialog\" aria-modal=\"true\" className={`_KpcKWX ${isOpen"
+  ],
+  "_PxCiiz": [
+    "[App.backup] <div className=\"_PxCiiz\">",
+    "[LocationSection] <div className=\"_PxCiiz\">"
+  ],
+  "_QEBUFh": [
+    "[Header] <span className=\"_QEBUFh\">",
+    "[App.backup] <span className=\"_QEBUFh\">"
+  ],
+  "_QIemms": [
+    "[App.backup] <div className=\"_QIemms\" id=\"lbTitle\"></div>"
+  ],
+  "_QZaLue": [
+    "[App] <div className=\"_QZaLue\">",
+    "[App.backup] <div className=\"_QZaLue\" id=\"amenities\">",
+    "[ListingInfo] <div className=\"_QZaLue\">",
+    "[AmenitiesSection] <div className=\"_QZaLue\" id=\"amenities\">",
+    "[App.backup] <div className=\"_QZaLue\">"
+  ],
+  "_QdaeUh": [
+    "[SecondaryNav] <span className=\"_QdaeUh\" aria-hidden=\"true\"></span> 4.95 \u00b7{\" \"}",
+    "[App.backup] <span className=\"_QdaeUh\" aria-hidden=\"true\"></span> 4.95 \u00b7{\" \"}"
+  ],
+  "_RRsDBp": [
+    "[ReviewsSection] <div className=\"_RRsDBp\">",
+    "[App.backup] <div className=\"_RRsDBp\">"
+  ],
+  "_RzoDdP": [
+    "[LocationSection] <div className=\"_RzoDdP\">Candolim, Goa, India</div>",
+    "[App.backup] <div className=\"_RzoDdP\">Candolim, Goa, India</div>"
+  ],
+  "_SPYgTj": [
+    "[App.backup] <div className=\"_SPYgTj\" id=\"wideSections\">",
+    "[App] <div className=\"_SPYgTj\" id=\"wideSections\">"
+  ],
+  "_SSnzPz": [
+    "UNUSED IN JSX"
+  ],
+  "_Spojam": [
+    "[BookingCard] <button className=\"_Spojam\" type=\"button\">",
+    "[App.backup] <button className=\"_Spojam\" type=\"button\">"
+  ],
+  "_SrOOll": [
+    "[App.backup] <span className=\"_SrOOll\">",
+    "[BookingCard] <span className=\"_SrOOll\">"
+  ],
+  "_TCWfOg": [
+    "[App.backup] <header className=\"_TCWfOg\" id=\"tourBar\">",
+    "[PhotoTour] <header className=\"_TCWfOg\">"
+  ],
+  "_TCsYZP": [
+    "[App.backup] <div className=\"_TCsYZP\">",
+    "[AmenitiesSection] <div className=\"_TCsYZP\">"
+  ],
+  "_TjrxaG": [
+    "[App.backup] <div className=\"_TjrxaG\">",
+    "[ReviewsSection] <div className=\"_TjrxaG\">"
+  ],
+  "_UHweot": [
+    "[App.backup] <div className=\"_UHweot\">10</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">30</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">29</div>",
+    "[App.backup] <div className=\"_UHweot\">8</div>",
+    "[App] <div className=\"_UHweot _gTtWjP\">18</div>",
+    "[App.backup] <div className=\"_UHweot\">12</div>",
+    "[App] <div className=\"_UHweot\">30</div>",
+    "[App.backup] <div className=\"_UHweot\">31</div>",
+    "[App] <div className=\"_UHweot _lIMKSn\">19</div>",
+    "[App.backup] <div className=\"_UHweot\">26</div>",
+    "[App.backup] <div className=\"_UHweot _lIMKSn\">19</div>",
+    "[App] <div className=\"_UHweot\">2</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">24</div>",
+    "[App.backup] <div className=\"_UHweot\">3</div>",
+    "[App.backup] <div className=\"_UHweot\">27</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">19</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">23</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">24</div>",
+    "[App] <div className=\"_UHweot _cvZNKV\"></div>",
+    "[App] <div className=\"_UHweot\">14</div>",
+    "[App.backup] <div className=\"_UHweot\">17</div>",
+    "[App] <div className=\"_UHweot\">3</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">18</div>",
+    "[App] <div className=\"_UHweot\">11</div>",
+    "[App.backup] <div className=\"_UHweot\">5</div>",
+    "[App] <div className=\"_UHweot _lIMKSn\">20</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">20</div>",
+    "[App.backup] <div className=\"_UHweot\">1</div>",
+    "[App] <div className=\"_UHweot\">24</div>",
+    "[App.backup] <div className=\"_UHweot _cvZNKV\"></div>",
+    "[App] <div className=\"_UHweot\">29</div>",
+    "[App.backup] <div className=\"_UHweot _lIMKSn\">20</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">22</div>",
+    "[App] <div className=\"_UHweot _lIMKSn\">21</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">23</div>",
+    "[App] <div className=\"_UHweot\">27</div>",
+    "[App] <div className=\"_UHweot\">16</div>",
+    "[App.backup] <div className=\"_UHweot\">9</div>",
+    "[App.backup] <div className=\"_UHweot\">6</div>",
+    "[App.backup] <div className=\"_UHweot\">29</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">19</div>",
+    "[App] <div className=\"_UHweot\">7</div>",
+    "[App.backup] <div className=\"_UHweot _lIMKSn\">22</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">29</div>",
+    "[App] <div className=\"_UHweot\">9</div>",
+    "[App] <div className=\"_UHweot\">8</div>",
+    "[App.backup] <div className=\"_UHweot\">15</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">22</div>",
+    "[App] <div className=\"_UHweot\">4</div>",
+    "[App] <div className=\"_UHweot\">25</div>",
+    "[App] <div className=\"_UHweot _ifYNOn\">23</div>",
+    "[App] <div className=\"_UHweot\">31</div>",
+    "[App.backup] <div className=\"_UHweot _lIMKSn\">21</div>",
+    "[App] <div className=\"_UHweot\">17</div>",
+    "[App.backup] <div className=\"_UHweot\">14</div>",
+    "[App.backup] <div className=\"_UHweot\">2</div>",
+    "[App.backup] <div className=\"_UHweot\">30</div>",
+    "[App] <div className=\"_UHweot _lIMKSn\">22</div>",
+    "[App] <div className=\"_UHweot\">12</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">30</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">20</div>",
+    "[App.backup] <div className=\"_UHweot _gTtWjP\">18</div>",
+    "[App] <div className=\"_UHweot\">10</div>",
+    "[App.backup] <div className=\"_UHweot\">16</div>",
+    "[App] <div className=\"_UHweot\">13</div>",
+    "[App.backup] <div className=\"_UHweot\">11</div>",
+    "[App] <div className=\"_UHweot\">1</div>",
+    "[App.backup] <div className=\"_UHweot\">25</div>",
+    "[App.backup] <div className=\"_UHweot _ifYNOn\">23</div>",
+    "[App] <div className=\"_UHweot\">5</div>",
+    "[App.backup] <div className=\"_UHweot\">7</div>",
+    "[App.backup] <div className=\"_UHweot\">13</div>",
+    "[App] <div className=\"_UHweot\">26</div>",
+    "[App] <div className=\"_UHweot _FXEbnd\">21</div>",
+    "[App.backup] <div className=\"_UHweot\">28</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">18</div>",
+    "[App] <div className=\"_UHweot\">28</div>",
+    "[App.backup] <div className=\"_UHweot\">4</div>",
+    "[App] <div className=\"_UHweot\">15</div>",
+    "[App.backup] <div className=\"_UHweot\">24</div>",
+    "[App] <div className=\"_UHweot\">6</div>",
+    "[App.backup] <div className=\"_UHweot _FXEbnd\">21</div>"
+  ],
+  "_Ugwssa": [
+    "[Header] <header className=\"_Ugwssa\" id=\"siteHeader\">",
+    "[App.backup] <header className=\"_Ugwssa\" id=\"siteHeader\">"
+  ],
+  "_UiBrsI": [
+    "[App.backup] <div className=\"_UiBrsI\">",
+    "[HostSection] <div className=\"_UiBrsI\">"
+  ],
+  "_VPKRNC": [
+    "[App.backup] <div className=\"_VPKRNC\" id=\"lbStage\"></div>"
+  ],
+  "_VTIXSd": [
+    "[App.backup] className=\"_KNOVTi _VTIXSd _bNHEUf\""
+  ],
+  "_VUbbfz": [
+    "[LocationSection] <span className=\"_VUbbfz\">",
+    "[App.backup] className=\"_VUbbfz\"",
+    "[ListingInfo] className=\"_VUbbfz\"",
+    "[App.backup] <span className=\"_VUbbfz\">"
+  ],
+  "_VXHyjS": [
+    "[App.backup] <div className=\"_VXHyjS\">",
+    "[App] <div className=\"_VXHyjS\">"
+  ],
+  "_VkQoEV": [
+    "[App.backup] className=\"_KNOVTi _VkQoEV _bNHEUf\""
+  ],
+  "_VlFmUV": [
+    "[App.backup] className=\"_VlFmUV\"",
+    "[ReviewsSection] className=\"_VlFmUV\""
+  ],
+  "_WKAkzo": [
+    "[App.backup] <button className=\"_WKAkzo\">Clear dates</button>",
+    "[App] <button className=\"_WKAkzo\">Clear dates</button>"
+  ],
+  "_WNEjqG": [
+    "[App] <section className=\"_WNEjqG\">",
+    "[App.backup] <section className=\"_WNEjqG\" id=\"location\">",
+    "[ReviewsSection] <section className=\"_WNEjqG\" id=\"reviews\">",
+    "[App.backup] <section className=\"_WNEjqG\" id=\"reviews\">",
+    "[LocationSection] <section className=\"_WNEjqG\" id=\"location\">",
+    "[NearbyStays] <section className=\"_WNEjqG\">",
+    "[App.backup] <section className=\"_WNEjqG\">",
+    "[HostSection] <section className=\"_WNEjqG\">"
+  ],
+  "_WQsVLm": [
+    "[HeroGallery] <h1 className=\"_WQsVLm\">",
+    "[App.backup] <h1 className=\"_WQsVLm\">"
+  ],
+  "_WevcZP": [
+    "[App.backup] className=\"_WevcZP\"",
+    "[ReviewsSection] className=\"_WevcZP\""
+  ],
+  "_WpbHyo": [
+    "[App.backup] <div className=\"_WpbHyo\">",
+    "[ListingInfo] <div className=\"_WpbHyo\">"
+  ],
+  "_XByKcL": [
+    "[AmenitiesSection] <div className=\"_XByKcL\">",
+    "[App.backup] <div className=\"_XByKcL _LJqhqA\">",
+    "[AmenitiesSection] <div className=\"_XByKcL _LJqhqA\">",
+    "[App.backup] <div className=\"_XByKcL\">"
+  ],
+  "_XJKtyD": [
+    "[App.backup] <span className=\"_XJKtyD\">",
+    "[ReviewsSection] <span className=\"_XJKtyD\">",
+    "[App.backup] <div className=\"_XJKtyD\">",
+    "[ListingInfo] <div className=\"_XJKtyD\">"
+  ],
+  "_XNAevj": [
+    "[ReviewsSection] <span className=\"_XNAevj\">1</span>",
+    "[ReviewsSection] <span className=\"_XNAevj\">2</span>",
+    "[App.backup] <span className=\"_XNAevj\">2</span>",
+    "[App.backup] <span className=\"_XNAevj\">5</span>",
+    "[App.backup] <span className=\"_XNAevj\">4</span>",
+    "[App.backup] <span className=\"_XNAevj\">3</span>",
+    "[ReviewsSection] <span className=\"_XNAevj\">4</span>",
+    "[ReviewsSection] <span className=\"_XNAevj\">3</span>",
+    "[App.backup] <span className=\"_XNAevj\">1</span>",
+    "[ReviewsSection] <span className=\"_XNAevj\">5</span>"
+  ],
+  "_XZmvOH": [
+    "[App.backup] <h2 className=\"_XZmvOH\">Where you\u2019ll be</h2>",
+    "[App.backup] <h2 className=\"_XZmvOH\">Where you'll sleep</h2>",
+    "[App] <h2 className=\"_XZmvOH\">Things to know</h2>",
+    "[ListingInfo] <h2 className=\"_XZmvOH\">Where you'll sleep</h2>",
+    "[AmenitiesSection] <h2 className=\"_XZmvOH\">What this place offers</h2>",
+    "[HostSection] <h2 className=\"_XZmvOH\">Meet your host</h2>",
+    "[App.backup] <h2 className=\"_XZmvOH\">Meet your host</h2>",
+    "[App.backup] <h2 className=\"_XZmvOH\">Things to know</h2>",
+    "[LocationSection] <h2 className=\"_XZmvOH\">Where you\u2019ll be</h2>",
+    "[NearbyStays] <h2 className=\"_XZmvOH\" style={{ margin: \"0px\" }}>",
+    "[App.backup] <h2 className=\"_XZmvOH\">What this place offers</h2>",
+    "[App.backup] <h2 className=\"_XZmvOH\" style={{ margin: \"0px\" }}>"
+  ],
+  "_XZuuKk": [
+    "[AmenitiesSection] <button className=\"_XZuuKk\" id=\"showAmen\">",
+    "[App.backup] <button className=\"_XZuuKk\" id=\"showAmen\">",
+    "[App.backup] <button className=\"_XZuuKk\">Show all 19 reviews</button>",
+    "[ReviewsSection] <button className=\"_XZuuKk\">Show all 19 reviews</button>"
+  ],
+  "_XofkZZ": [
+    "[App.backup] <div className=\"_XofkZZ\">",
+    "[ListingInfo] <div className=\"_XofkZZ\">"
+  ],
+  "_YRQCMM": [
+    "[SecondaryNav] <div className=\"_YRQCMM\">",
+    "[App.backup] <div className=\"_YRQCMM\">"
+  ],
+  "_YidPyi": [
+    "[App.backup] className=\"_YidPyi\"",
+    "[ListingInfo] className=\"_YidPyi\""
+  ],
+  "_YkNyTO": [
+    "[BookingCard] className=\"_NhmiWB _YkNyTO\"",
+    "[App.backup] className=\"_NhmiWB _YkNyTO\""
+  ],
+  "_YyLznY": [
+    "[App.backup] <div className=\"_YyLznY\">",
+    "[NearbyStays] <div className=\"_YyLznY\">"
+  ],
+  "_ZOPyus": [
+    "[ListingInfo] <div className=\"_ZOPyus\"></div>",
+    "[App.backup] <div className=\"_ZOPyus\"></div>"
+  ],
+  "_ZOaIER": [
+    "[App.backup] className=\"_ZOaIER\"",
+    "[ListingInfo] className=\"_ZOaIER\""
+  ],
+  "_ZOpPkY": [
+    "[HostSection] <div className=\"_ZOpPkY\">",
+    "[App.backup] <div className=\"_ZOpPkY\">"
+  ],
+  "_ZWkpdw": [
+    "[App.backup] <div className=\"_ZWkpdw\">Samiksha</div>",
+    "[ReviewsSection] <div className=\"_ZWkpdw\">Mohd</div>",
+    "[App.backup] <div className=\"_ZWkpdw\">Amit</div>",
+    "[App.backup] <div className=\"_ZWkpdw\">Vedant</div>",
+    "[App.backup] <div className=\"_ZWkpdw\">Hosted by Mirashya Homes</div>",
+    "[ListingInfo] <div className=\"_ZWkpdw\">Hosted by Mirashya Homes</div>",
+    "[App.backup] <div className=\"_ZWkpdw\">Mohd</div>",
+    "[ReviewsSection] <div className=\"_ZWkpdw\">Amit</div>",
+    "[ReviewsSection] <div className=\"_ZWkpdw\">Aheesh</div>",
+    "[App.backup] <div className=\"_ZWkpdw\">Aheesh</div>",
+    "[ReviewsSection] <div className=\"_ZWkpdw\">Vedant</div>",
+    "[App.backup] <div className=\"_ZWkpdw\">Vaibhav S</div>",
+    "[ReviewsSection] <div className=\"_ZWkpdw\">Vaibhav S</div>",
+    "[ReviewsSection] <div className=\"_ZWkpdw\">Samiksha</div>"
+  ],
+  "_ZjQoRK": [
+    "[App.backup] <span className=\"_ZjQoRK\" aria-hidden=\"true\">",
+    "[App] <span className=\"_ZjQoRK\" aria-hidden=\"true\">"
+  ],
+  "_Zndiww": [
+    "[App] const heroGrid = document.getElementById(\"_Zndiww\");",
+    "[App.backup] const heroElement = document.getElementById(\"_Zndiww\");",
+    "[App] id=\"_Zndiww\"",
+    "[App.backup] className=\"_Zndiww\"",
+    "[App.backup] id=\"_Zndiww\"",
+    "[App] className=\"_Zndiww\""
+  ],
+  "_Zudfyi": [
+    "[App.backup] <div className=\"_Zudfyi\">",
+    "[SecondaryNav] <div className=\"_Zudfyi\">"
+  ],
+  "_aZSeca": [
+    "[HeroGallery] <div className=\"_aZSeca\">",
+    "[App.backup] <div className=\"_aZSeca\">"
+  ],
+  "_acYbbH": [
+    "[ReviewsSection] <div className=\"_acYbbH\">4.95</div>",
+    "[App.backup] <div className=\"_acYbbH\">4.95</div>"
+  ],
+  "_ahDDBA": [
+    "[App.backup] className=\"_ahDDBA\"",
+    "[ListingInfo] className=\"_ahDDBA\""
+  ],
+  "_aykCAY": [
+    "[SecondaryNav] <span className=\"_aykCAY\">\u20b928,499</span>{\" \"}",
+    "[App.backup] <span className=\"_aykCAY\">\u20b928,499</span>{\" \"}"
+  ],
+  "_bJChEA": [
+    "[App.backup] <div className=\"_bJChEA\">",
+    "[BookingCard] <div className=\"_bJChEA\">"
+  ],
+  "_bLFgMg": [
+    "[PhotoTour] <div className=\"_bLFgMg\">",
+    "[App.backup] <div className=\"_bLFgMg\">"
+  ],
+  "_bNHEUf": [
+    "[App.backup] className=\"_ffpbhP _bNHEUf\"",
+    "[App.backup] className=\"_KNOVTi _VkQoEV _bNHEUf\"",
+    "[App.backup] <button className=\"_bNHEUf\" type=\"button\" aria-label=\"Share\">",
+    "[App.backup] className=\"_KNOVTi _VTIXSd _bNHEUf\"",
+    "[App.backup] className=\"_bNHEUf _cqnRCd\"",
+    "[App.backup] <button className=\"_bNHEUf\" type=\"button\" aria-label=\"Save\">",
+    "[App.backup] className=\"lb-close _bNHEUf\"",
+    "[PhotoTour] <button className=\"_bNHEUf\" aria-label=\"Close\" onClick={onClose}>",
+    "[App.backup] className=\"_CscuGL _bNHEUf\""
+  ],
+  "_bUsxCi": [
+    "[BookingCard] <div className=\"_bUsxCi\" id=\"bookingSticky\">",
+    "[App.backup] <div className=\"_bUsxCi\" id=\"bookingSticky\">"
+  ],
+  "_cOOOjN": [
+    "[App.backup] <button className=\"_cOOOjN\">How reviews work</button>",
+    "[ReviewsSection] <button className=\"_cOOOjN\">How reviews work</button>"
+  ],
+  "_cixxXf": [
+    "[App.backup] <div className=\"_cixxXf\">",
+    "[NearbyStays] <div className=\"_cixxXf\">"
+  ],
+  "_cqnRCd": [
+    "[App.backup] className=\"_bNHEUf _cqnRCd\""
+  ],
+  "_cvZNKV": [
+    "[App.backup] <div className=\"_UHweot _cvZNKV\"></div>",
+    "[App] <div className=\"_UHweot _cvZNKV\"></div>"
+  ],
+  "_dVnTwq": [
+    "[App.backup] <div className=\"_dVnTwq\">",
+    "[ReviewsSection] <div className=\"_dVnTwq\">"
+  ],
+  "_duSenM": [
+    "[App.backup] <div className=\"_duSenM\" id=\"simTrack\" ref={simTrackRef}>",
+    "[NearbyStays] <div className=\"_duSenM\" id=\"simTrack\" ref={simTrackRef}>"
+  ],
+  "_eBzTKK": [
+    "[LocationSection] <div className=\"_eBzTKK\">",
+    "[App.backup] <div className=\"_eBzTKK\">"
+  ],
+  "_eYdTlY": [
+    "[HostSection] <div className=\"_eYdTlY\">",
+    "[App.backup] <div className=\"_eYdTlY\">"
+  ],
+  "_eeeBPf": [
+    "[App] <div className=\"_eeeBPf\">",
+    "[App.backup] <div className=\"_eeeBPf\">"
+  ],
+  "_egLfkO": [
+    "[App.backup] <button className=\"_egLfkO\">Message host</button>",
+    "[HostSection] <button className=\"_egLfkO\">Message host</button>"
+  ],
+  "_ehfyuX": [
+    "[App.backup] <div className=\"_ehfyuX\">",
+    "[BookingCard] <div className=\"_ehfyuX\">"
+  ],
+  "_erTcst": [
+    "[App.backup] <div className=\"_erTcst\">",
+    "[BookingCard] <div className=\"_erTcst\">"
+  ],
+  "_fTQmRt": [
+    "[SecondaryNav] className={`_JXzroy ${isSecondaryNavVisible ? \"_fTQmRt\" : \"\"}`}",
+    "[App.backup] className={`_JXzroy ${isSecondaryNavVisible ? \"_fTQmRt\" : \"\"}`}"
+  ],
+  "_ffpbhP": [
+    "[App.backup] className=\"_ffpbhP _bNHEUf\"",
+    "[PhotoTour] <div className=\"_ffpbhP\">"
+  ],
+  "_fghUgF": [
+    "[ReviewsSection] <button className=\"_fghUgF\">",
+    "[App.backup] <button className=\"_fghUgF\">"
+  ],
+  "_finVTK": [
+    "[Header] <button className=\"_LkdOyD _finVTK\" type=\"button\">",
+    "[App.backup] <button className=\"_LkdOyD _finVTK\" type=\"button\">"
+  ],
+  "_gKVFNL": [
+    "[App.backup] <button className=\"_gKVFNL\" type=\"button\" aria-label=\"Exterior\">",
+    "[App.backup] <button className=\"_gKVFNL\" type=\"button\" aria-label=\"Pool\">",
+    "[App.backup] className=\"_gKVFNL\"",
+    "[App.backup] <button className=\"_gKVFNL\" type=\"button\" aria-label=\"Bedroom\">",
+    "[PhotoTour] className=\"_gKVFNL\"",
+    "[App.backup] <button className=\"_gKVFNL\" type=\"button\" aria-label=\"Gym\">"
+  ],
+  "_gOWKSk": [
+    "[App.backup] <div className=\"_gOWKSk\">",
+    "[HostSection] <div className=\"_gOWKSk\">"
+  ],
+  "_gRekoP": [
+    "[App.backup] <div className=\"_gRekoP\">",
+    "[ListingInfo] <div className=\"_gRekoP\">"
+  ],
+  "_gTtWjP": [
+    "[App.backup] <div className=\"_UHweot _gTtWjP\">18</div>",
+    "[App] <div className=\"_UHweot _gTtWjP\">18</div>"
+  ],
+  "_gmngIQ": [
+    "[App.backup] <div className=\"_gmngIQ\">",
+    "[App.backup] <div className=\"_gmngIQ _LJqhqA\">"
+  ],
+  "_hCwPJL": [
+    "[SecondaryNav] <nav className=\"_hCwPJL\" aria-label=\"Listing sections\">",
+    "[App.backup] <nav className=\"_hCwPJL\" aria-label=\"Listing sections\">"
+  ],
+  "_hKlfpJ": [
+    "[App.backup] <div className=\"_hKlfpJ\">",
+    "[PhotoTour] <div className=\"_hKlfpJ\">"
+  ],
+  "_hbNVom": [
+    "[BookingCard] className=\"_hbNVom\"",
+    "[App.backup] className=\"_hbNVom\""
+  ],
+  "_hvJgUS": [
+    "[App.backup] <div className=\"_hvJgUS\">Pool</div>",
+    "[App.backup] <div className=\"_hvJgUS\">",
+    "[App.backup] <div className=\"_hvJgUS\">Ceiling fan \u00b7 Hot tub</div>",
+    "[PhotoTour] {cat.subtitle && <div className=\"_hvJgUS\">{cat.subtitle}</div>}"
+  ],
+  "_iJTxKe": [
+    "[BookingCard] <aside className=\"_iJTxKe\">",
+    "[App.backup] <aside className=\"_iJTxKe\">"
+  ],
+  "_iRDAKc": [
+    "[App.backup] <span className=\"_iRDAKc\" id=\"lbCounter\"></span>"
+  ],
+  "_ifYNOn": [
+    "[App] <div className=\"_UHweot _ifYNOn\">23</div>",
+    "[App.backup] <div className=\"_UHweot _ifYNOn\">23</div>"
+  ],
+  "_jCniyC": [
+    "[App.backup] <button className=\"_NhmiWB _jCniyC\" type=\"button\">",
+    "[SecondaryNav] <button className=\"_NhmiWB _jCniyC\" type=\"button\">"
+  ],
+  "_jcEuOw": [
+    "[BookingCard] <div className=\"_jcEuOw\">",
+    "[App.backup] <div className=\"_jcEuOw\">"
+  ],
+  "_jdcHSj": [
+    "[App.backup] <div className=\"_jdcHSj\">",
+    "[HostSection] <div className=\"_jdcHSj\">"
+  ],
+  "_jjUQkB": [
+    "[App] <div className=\"_jjUQkB\">",
+    "[App.backup] <div className=\"_jjUQkB\">"
+  ],
+  "_joNbzi": [
+    "[App.backup] <div className=\"_joNbzi\">18 Oct 2026 - 23 Oct 2026</div>",
+    "[App.backup] <div className=\"_joNbzi\">1 double bed</div>",
+    "[App.backup] <div className=\"_joNbzi\">1 sofa</div>",
+    "[ListingInfo] <div className=\"_joNbzi\">",
+    "[App.backup] <div className=\"_joNbzi\">",
+    "[App] <div className=\"_joNbzi\">18 Oct 2026 - 23 Oct 2026</div>",
+    "[ListingInfo] <div className=\"_joNbzi\">1 sofa</div>",
+    "[ListingInfo] <div className=\"_joNbzi\">1 double bed</div>"
+  ],
+  "_joiPBF": [
+    "[App.backup] <div className=\"_joiPBF\" id=\"contentLeft\">",
+    "[App] <div className=\"_joiPBF\" id=\"contentLeft\">"
+  ],
+  "_kNZPIK": [
+    "[App.backup] <span className=\"_kNZPIK\">for 5 nights</span>",
+    "[BookingCard] <span className=\"_kNZPIK\">for 5 nights</span>"
+  ],
+  "_kfKUOt": [
+    "[App.backup] <p id=\"descText\" className={isDescExpanded ? \"\" : \"_kfKUOt\"}>",
+    "[App.backup] className=\"_CfRTjD _kfKUOt\"",
+    "[ListingInfo] <p id=\"descText\" className={isDescExpanded ? \"\" : \"_kfKUOt\"}>",
+    "[ReviewsSection] className=\"_CfRTjD _kfKUOt\""
+  ],
+  "_kkCObW": [
+    "[ReviewsSection] <div className=\"_kkCObW\">4.8</div>",
+    "[App.backup] <div className=\"_kkCObW\">4.8</div>",
+    "[App.backup] <div className=\"_kkCObW\">5.0</div>",
+    "[ReviewsSection] <div className=\"_kkCObW\">5.0</div>"
+  ],
+  "_klVRbI": [
+    "[App.backup] <span className=\"_klVRbI\">",
+    "[NearbyStays] <span className=\"_klVRbI\">"
+  ],
+  "_kuaAPu": [
+    "[App.backup] <div className=\"_kuaAPu\">Host</div>",
+    "[HostSection] <div className=\"_kuaAPu\">Host</div>"
+  ],
+  "_kxKLYi": [
+    "[App.backup] <div className=\"_kxKLYi\">"
+  ],
+  "_kxdode": [
+    "[App.backup] className=\"_kxdode\"",
+    "[NearbyStays] className=\"_kxdode\""
+  ],
+  "_lIMKSn": [
+    "[App.backup] <div className=\"_UHweot _lIMKSn\">21</div>",
+    "[App] <div className=\"_UHweot _lIMKSn\">22</div>",
+    "[App] <div className=\"_UHweot _lIMKSn\">19</div>",
+    "[App] <div className=\"_UHweot _lIMKSn\">21</div>",
+    "[App.backup] <div className=\"_UHweot _lIMKSn\">19</div>",
+    "[App.backup] <div className=\"_UHweot _lIMKSn\">22</div>",
+    "[App] <div className=\"_UHweot _lIMKSn\">20</div>",
+    "[App.backup] <div className=\"_UHweot _lIMKSn\">20</div>"
+  ],
+  "_lQlyVc": [
+    "[App.backup] <button className=\"_lQlyVc\">Show more</button>",
+    "[ReviewsSection] <button className=\"_lQlyVc\">Show more</button>"
+  ],
+  "_lVGbrm": [
+    "[App.backup] <div className=\"_lVGbrm\">"
+  ],
+  "_lhKJir": [
+    "[App] <div className=\"_lhKJir\">",
+    "[App.backup] <div className=\"_lhKJir\">"
+  ],
+  "_lineClampDesc": [
+    "UNUSED IN JSX"
+  ],
+  "_loDmux": [
+    "[ListingInfo] <span className=\"_loDmux _wJAzrb\">",
+    "[App.backup] <span className=\"_loDmux _wJAzrb\">",
+    "[ListingInfo] <span className=\"_loDmux\">",
+    "[App.backup] <span className=\"_loDmux\">"
+  ],
+  "_mTFISQ": [
+    "[HostSection] <div className=\"_mTFISQ\">",
+    "[App.backup] <div className=\"_mTFISQ\">"
+  ],
+  "_mXHiZG": [
+    "[App.backup] <div className=\"_mXHiZG\">",
+    "[ReviewsSection] <div className=\"_mXHiZG\">"
+  ],
+  "_mdAcnz": [
+    "[App.backup] className=\"_mdAcnz\""
+  ],
+  "_mtuwgH": [
+    "[App.backup] <div className=\"_mtuwgH\">You won't be charged yet</div>",
+    "[BookingCard] <div className=\"_mtuwgH\">You won't be charged yet</div>"
+  ],
+  "_mvnlYS": [
+    "[App.backup] <div className=\"_mvnlYS\">GUESTS</div>",
+    "[App.backup] <div className=\"_mvnlYS\">CHECKOUT</div>",
+    "[BookingCard] <div className=\"_mvnlYS\">CHECKOUT</div>",
+    "[BookingCard] <div className=\"_mvnlYS\">GUESTS</div>",
+    "[BookingCard] <div className=\"_mvnlYS\">CHECK-IN</div>",
+    "[App.backup] <div className=\"_mvnlYS\">CHECK-IN</div>"
+  ],
+  "_nCtqsh": [
+    "[App.backup] className=\"_nCtqsh\"",
+    "[ReviewsSection] className=\"_nCtqsh\""
+  ],
+  "_nSlVqJ": [
+    "[ListingInfo] <div className=\"_nSlVqJ\">",
+    "[App.backup] <div className=\"_nSlVqJ\">"
+  ],
+  "_nfavct": [
+    "[App.backup] className={`_EmrQRK ${isSaved ? \"_nfavct\" : \"\"}`}",
+    "[HeroGallery] className={`_EmrQRK ${isSaved ? \"_nfavct\" : \"\"}`}"
+  ],
+  "_nrzMKB": [
+    "[ReviewsSection] Decor <span className=\"_nrzMKB\">2</span>",
+    "[ReviewsSection] Location <span className=\"_nrzMKB\">2</span>",
+    "[App.backup] Comfort <span className=\"_nrzMKB\">6</span>",
+    "[ReviewsSection] Amenities <span className=\"_nrzMKB\">2</span>",
+    "[App.backup] Accuracy <span className=\"_nrzMKB\">5</span>",
+    "[App.backup] Location <span className=\"_nrzMKB\">2</span>",
+    "[ReviewsSection] Condition <span className=\"_nrzMKB\">4</span>",
+    "[ReviewsSection] Cleanliness <span className=\"_nrzMKB\">4</span>",
+    "[App.backup] Decor <span className=\"_nrzMKB\">2</span>",
+    "[ReviewsSection] Hospitality <span className=\"_nrzMKB\">8</span>",
+    "[App.backup] Cleanliness <span className=\"_nrzMKB\">4</span>",
+    "[ReviewsSection] Hot tub <span className=\"_nrzMKB\">5</span>",
+    "[App.backup] Amenities <span className=\"_nrzMKB\">2</span>",
+    "[ReviewsSection] Accuracy <span className=\"_nrzMKB\">5</span>",
+    "[App.backup] Hot tub <span className=\"_nrzMKB\">5</span>",
+    "[App.backup] Condition <span className=\"_nrzMKB\">4</span>",
+    "[ReviewsSection] Indoor spaces <span className=\"_nrzMKB\">2</span>",
+    "[ReviewsSection] Comfort <span className=\"_nrzMKB\">6</span>",
+    "[App.backup] Indoor spaces <span className=\"_nrzMKB\">2</span>",
+    "[App.backup] Hospitality <span className=\"_nrzMKB\">8</span>"
+  ],
+  "_oQmVpq": [
+    "[HeroGallery] <span className=\"_oQmVpq\">",
+    "[App.backup] <span className=\"_oQmVpq\">",
+    "[PhotoTour] <span className=\"_oQmVpq\">"
+  ],
+  "_odWCCi": [
+    "[ListingInfo] <div className=\"_odWCCi\">",
+    "[App.backup] <div className=\"_odWCCi\">"
+  ],
+  "_ooNURW": [
+    "[ListingInfo] <div className=\"_ooNURW\">",
+    "[App.backup] <div className=\"_ooNURW\">"
+  ],
+  "_pHrBSW": [
+    "[App.backup] <div className=\"_pHrBSW\">",
+    "[ListingInfo] <div className=\"_pHrBSW\">"
+  ],
+  "_pINcte": [
+    "UNUSED IN JSX"
+  ],
+  "_pKwVzP": [
+    "[App.backup] className=\"_pKwVzP\"",
+    "[App] className=\"_pKwVzP\""
+  ],
+  "_pLIPHL": [
+    "[LocationSection] <div className=\"_pLIPHL\"></div>",
+    "[App.backup] <div className=\"_pLIPHL\"></div>"
+  ],
+  "_pWGlTJ": [
+    "[App.backup] <div className=\"_pWGlTJ\">",
+    "[App] <div className=\"_pWGlTJ\">"
+  ],
+  "_pWibpC": [
+    "[ReviewsSection] <div className=\"_pWibpC\">",
+    "[App.backup] <div className=\"_pWibpC\">"
+  ],
+  "_pYppLa": [
+    "[App.backup] <div className=\"_pYppLa\">",
+    "[LocationSection] <div className=\"_pYppLa\">"
+  ],
+  "_qYvLOs": [
+    "[App] <div className=\"_qYvLOs\">",
+    "[App.backup] <div className=\"_qYvLOs\">"
+  ],
+  "_qsXuOf": [
+    "[App.backup] <div className=\"_qsXuOf\">",
+    "[ReviewsSection] <div className=\"_qsXuOf\">"
+  ],
+  "_rCLHzV": [
+    "[ListingInfo] <div className=\"_rCLHzV\">",
+    "[App.backup] <div className=\"_rCLHzV\">"
+  ],
+  "_rDgNVk": [
+    "[App.backup] <div className=\"_rDgNVk\">",
+    "[ReviewsSection] <div className=\"_rDgNVk\">"
+  ],
+  "_tAbhrW": [
+    "[App.backup] <span className=\"_tAbhrW\">Living room 1</span>",
+    "[HostSection] <div className=\"_tAbhrW\">Rating</div>",
+    "[App.backup] <span className=\"_tAbhrW\">Full kitchen</span>",
+    "[App.backup] <div className=\"_tAbhrW\">Rating</div>",
+    "[App.backup] <span className=\"_tAbhrW\">Living room 2</span>",
+    "[App.backup] <span className=\"_tAbhrW\">Full bathroom</span>",
+    "[App.backup] <span className=\"_tAbhrW\">Gym</span>",
+    "[App.backup] <div className=\"_tAbhrW\">Reviews</div>",
+    "[App.backup] <div className=\"_tAbhrW\">Years hosting</div>",
+    "[App.backup] <span className=\"_tAbhrW\">Bedroom</span>",
+    "[App.backup] <span className=\"_tAbhrW\">Pool</span>",
+    "[App.backup] <span className=\"_tAbhrW\">Additional photos</span>",
+    "[App.backup] <span className=\"_tAbhrW\">Exterior</span>",
+    "[PhotoTour] <div className=\"_tAbhrW\">{cat.title}</div>",
+    "[ListingInfo] <div className=\"_tAbhrW\">Reviews</div>",
+    "[HostSection] <div className=\"_tAbhrW\">Years hosting</div>",
+    "[HostSection] <div className=\"_tAbhrW\">Reviews</div>"
+  ],
+  "_tHVclZ": [
+    "[PhotoTour] <div className=\"_tHVclZ\" id=\"tourNav\" aria-label=\"Photo categories\">",
+    "[App.backup] className=\"_tHVclZ\""
+  ],
+  "_tYfFja": [
+    "[Header] <span className=\"_tYfFja\"></span>",
+    "[App.backup] <span className=\"_tYfFja\"></span>"
+  ],
+  "_toiEJx": [
+    "[App.backup] className=\"_toiEJx\"",
+    "[App] className=\"_toiEJx\""
+  ],
+  "_uAiafM": [
+    "[HostSection] <div className=\"_uAiafM\">",
+    "[App.backup] <div className=\"_uAiafM\">"
+  ],
+  "_uNDbeR": [
+    "[LocationSection] <div className=\"_uNDbeR\">Neighbourhood highlights</div>",
+    "[App.backup] <div className=\"_uNDbeR\">Neighbourhood highlights</div>"
+  ],
+  "_uOQIyx": [
+    "[App.backup] <span className=\"_uOQIyx\">Share</span>",
+    "[App.backup] <span className=\"_uOQIyx\">{isSaved ? \"Saved\" : \"Save\"}</span>",
+    "[HeroGallery] <span className=\"_uOQIyx\">Share</span>",
+    "[HeroGallery] <span className=\"_uOQIyx\">{isSaved ? \"Saved\" : \"Save\"}</span>"
+  ],
+  "_ujAXFb": [
+    "[App] className=\"_ujAXFb\"",
+    "[App.backup] className=\"_ujAXFb\""
+  ],
+  "_usJUoS": [
+    "[App.backup] <h2 className=\"_usJUoS\">Photo tour</h2>",
+    "[PhotoTour] <div className=\"_usJUoS\">Photo tour</div>"
+  ],
+  "_vGeoQY": [
+    "[HostSection] className=\"_vGeoQY\"",
+    "[App.backup] className=\"_vGeoQY\""
+  ],
+  "_vPtpbJ": [
+    "[LocationSection] <button className=\"_vPtpbJ\" aria-label=\"Search\">",
+    "[App.backup] <button className=\"_vPtpbJ\" aria-label=\"Search\">"
+  ],
+  "_vQegXe": [
+    "[App.backup] <div className=\"_vQegXe\">Host details</div>",
+    "[HostSection] <div className=\"_vQegXe\">Host details</div>"
+  ],
+  "_vUECFC": [
+    "[App.backup] <div className=\"_vUECFC\">10/23/2026</div>",
+    "[App.backup] <div className=\"_vUECFC\">2 guests</div>",
+    "[BookingCard] <div className=\"_vUECFC\">2 guests</div>",
+    "[BookingCard] <div className=\"_vUECFC\">10/18/2026</div>",
+    "[App.backup] <div className=\"_vUECFC\">10/18/2026</div>",
+    "[BookingCard] <div className=\"_vUECFC\">10/23/2026</div>"
+  ],
+  "_vmCONz": [
+    "[PhotoTour] <div className={`_wdcjGJ ${cat.photos.length > 1 ? '_DLVRjk' : '_vmCONz'}`}>",
+    "[App.backup] <div className=\"_wdcjGJ _vmCONz\">"
+  ],
+  "_wJAzrb": [
+    "[App.backup] <span className=\"_loDmux _wJAzrb\">",
+    "[ListingInfo] <span className=\"_loDmux _wJAzrb\">"
+  ],
+  "_wdcjGJ": [
+    "[PhotoTour] <div className={`_wdcjGJ ${cat.photos.length > 1 ? '_DLVRjk' : '_vmCONz'}`}>",
+    "[App.backup] <div className=\"_wdcjGJ _DLVRjk\">",
+    "[App.backup] <div className=\"_wdcjGJ _vmCONz\">"
+  ],
+  "_wnLgSM": [
+    "[App.backup] <div className=\"_wnLgSM\">",
+    "[HostSection] <div className=\"_wnLgSM\">"
+  ],
+  "_wtMVZA": [
+    "[App.backup] <div className=\"_wtMVZA\">",
+    "[LocationSection] <div className=\"_wtMVZA\">"
+  ],
+  "_xvXhkf": [
+    "[App.backup] <div className=\"_xvXhkf\">Co-Hosts</div>",
+    "[HostSection] <div className=\"_xvXhkf\">Co-Hosts</div>"
+  ],
+  "_yBjuYG": [
+    "[App.backup] <div className=\"_yBjuYG\" id=\"amenModal\" aria-hidden=\"true\">"
+  ],
+  "_yIfKfd": [
+    "[ReviewsSection] className=\"_yIfKfd\"",
+    "[App.backup] className=\"_yIfKfd\""
+  ],
+  "_yKYFjj": [
+    "[Header] className=\"_yKYFjj\"",
+    "[App.backup] className=\"_yKYFjj\""
+  ],
+  "_yWMtoE": [
+    "[App.backup] <div className=\"_yWMtoE\">",
+    "[ListingInfo] <div className=\"_yWMtoE\">"
+  ],
+  "_yWwrkC": [
+    "[LocationSection] <button className=\"_yWwrkC\" style={{ marginTop: \"18px\" }}>",
+    "[App.backup] className=\"_yWwrkC\"",
+    "[ListingInfo] className=\"_yWwrkC\"",
+    "[App.backup] <button className=\"_yWwrkC\" style={{ marginTop: \"18px\" }}>"
+  ],
+  "_yZYwUW": [
+    "[PhotoTour] <div className=\"_yZYwUW\">",
+    "[App.backup] <div className=\"_yZYwUW\">"
+  ],
+  "_ygNjbZ": [
+    "[ReviewsSection] <div className=\"_ygNjbZ\">",
+    "[App.backup] <div className=\"_ygNjbZ\">"
+  ],
+  "_ynznJE": [
+    "[HostSection] <div className=\"_ynznJE\">",
+    "[App.backup] <div className=\"_ynznJE\">"
+  ],
+  "_zAWnNQ": [
+    "[App.backup] <div className=\"_zAWnNQ\">",
+    "[App] <div className=\"_zAWnNQ\">"
+  ],
+  "_zFbfbh": [
+    "[Lightbox] className=\"_zFbfbh\"",
+    "[App.backup] className=\"_zFbfbh\""
+  ],
+  "_zcNtKV": [
+    "[App] <div className=\"_zcNtKV\">",
+    "[App.backup] <div className=\"_zcNtKV\">"
+  ],
+  "_zwFSmY": [
+    "[App.backup] <div className=\"_zwFSmY\">"
+  ]
+}
